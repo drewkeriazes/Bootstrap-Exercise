@@ -2,6 +2,7 @@
     position: relative;
     text-align: center;
     color: white;
+    text-shadow: 1px 1px #000000;
 
 }
 
@@ -21,7 +22,14 @@
     -webkit-background-size: cover;
     background-size: cover;
     color: white;
+    text-align:center;
+    
+    
     }
+.learnMore{
+    float:right;
+    font-weight: bold;
+}
     
 .icon{
     text-align:center;
@@ -62,4 +70,11 @@
     padding-bottom: 0px;
     padding-left:0px;
     padding-right:0px;
+}
+
+.textShadow{
+    text-shadow: 1px 1px #000000;
+    font-family: Impact, Charcoal, sans-serif;
+
+
 }
