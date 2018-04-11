@@ -1,0 +1,65 @@
+.image-words{
+    position: relative;
+    text-align: center;
+    color: white;
+
+}
+
+.text{
+    position: absolute;
+    bottom:0px;
+    left: 15px;
+    right: 15px;
+}
+.jumbotron {
+   
+    background-image: url("../img/te_present_1600x1060_v2.jpg");
+    margin-bottom: 0;
+    min-height: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    background-size: cover;
+    color: white;
+    }
+    
+.icon{
+    text-align:center;
+}
+
+.padder{
+    padding-bottom:20px;
+}
+.darkblue{
+    background-color: rgb(1, 1, 158);
+    color: white;
+}
+
+.darkgreen{
+    background-color: darkgreen;
+    color: white;
+}
+
+.darkred{
+    background-color: darkred;
+    color: white;
+}
+
+.bigfont{
+    font-size: 64px;
+    font-weight: bold;
+}
+
+.table{
+
+    color: black;
+}
+.tableEven{
+    background-color: lightgray;
+    color:black;
+}
+.card-body{
+    padding-bottom: 0px;
+    padding-left:0px;
+    padding-right:0px;
+}
